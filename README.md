@@ -52,49 +52,13 @@ I enjoy building web applications, developing AI-powered solutions, and creating
 - Sentence Transformers and FAISS
 - Dataset Preparation and Data Processing
 
----
-
-## 🚀 Featured Projects
-
-### 🤖 AI Chatbot — Koperasi Desa Merah Putih
-An AI-powered chatbot designed to provide information based on a specialized knowledge base.
-
-**Highlights:**
-- Developed a Python-based chatbot using Flask.
-- Implemented document processing and semantic retrieval.
-- Used FAISS and Sentence Transformers for information retrieval.
-- Integrated an LLM to generate context-aware responses.
-
-**Tech:** Python, Flask, FAISS, Sentence Transformers, LLM
-
-### 💧 Business Workflow Dashboard — PT Toya Bumi Bersih
-A web-based dashboard supporting business operations and service workflows for a water treatment company.
-
-**Highlights:**
-- Contributed to frontend development using React.
-- Worked with PHP-based backend services and SQL databases.
-- Supported workflows related to installation, maintenance, and repair services.
-
-**Tech:** React, PHP, SQL, Laravel
-
-### 📊 Internal Workflow Dashboard
-A dashboard project focused on organizing data and improving internal business workflows.
-
-**Highlights:**
-- Worked with web application development and database integration.
-- Explored dashboard interfaces and workflow visualization.
-- Applied web technologies to support internal operational processes.
-
-**Tech:** PHP, MySQL, ASP.NET, SQL Server
-
----
-
 ## 💼 Professional Experience
 
 - **Ministry of Cooperatives, Republic of Indonesia** — AI Chatbot Developer Intern
 - **PT Toya Bumi Bersih** — Web Developer Intern
 - **Global Onkolab Farma** — IT Intern
 - **Financial Services Authority (OJK)** — Web Developer Intern
+- **PT Testindo** - (Maganghub) Web Developer Intern 
 
 Through these experiences, I gained practical exposure to web development, AI applications, database systems, and business process automation.
 
