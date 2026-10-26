@@ -64,6 +64,12 @@ Through these experiences, I gained practical exposure to web development, AI ap
 
 ---
 
+## ⚡ Hobbies & Interests
+
+🏸 Badminton · 🥊 Boxing · 🏊 Swimming · 🏃 Jogging · 🐶 Dog Lover
+
+---
+
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -96,5 +102,5 @@ Through these experiences, I gained practical exposure to web development, AI ap
 ---
 
 <p align="center">
-  <i>“The mind is the architect; action is the masterpiece.”</i>
+  <i>“The mind is the architect, action is the masterpiece.”</i>
 </p>
