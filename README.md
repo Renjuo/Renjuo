@@ -96,5 +96,5 @@ Through these experiences, I gained practical exposure to web development, AI ap
 ---
 
 <p align="center">
-  <i>"Building practical solutions through code, data, and artificial intelligence."</i>
+  <i>“The mind is the architect; action is the masterpiece.”</i>
 </p>
