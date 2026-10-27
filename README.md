@@ -1,10 +1,6 @@
 
 <h1 align="center">Hi, I'm Yahya Rafli Hidayah 👋</h1>
 
-<h3 align="center">
-  Frontend Developer | AI Engineer | IT Enthusiast
-</h3>
-
 <p align="center">
   <a href="https://github.com/Renjuo">
     <img src="https://komarev.com/ghpvc/?username=Renjuo&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
